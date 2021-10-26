@@ -4,7 +4,7 @@ const firebaseConfig = {
     projectId: "ema-john-simple-a70da",
     storageBucket: "ema-john-simple-a70da.appspot.com",
     messagingSenderId: "990100776727",
-    appId: "1:990100776727:web:0ef944a1ed4560257db952"
+    appId: "1:990100776727:web:0ef944a1ed4560257db952",
 };
 
 export default firebaseConfig;
